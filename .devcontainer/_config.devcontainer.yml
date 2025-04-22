@@ -1,0 +1,10 @@
+port: 8004
+url: http://localhost
+repository: alertbox/bookworm
+
+# Build settings
+show_drafts: true
+future: true
+unpublished: true
+
+github: [metadata]
