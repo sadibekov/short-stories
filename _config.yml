@@ -1,7 +1,7 @@
 # Site settings
 locale: "en-US"
-baseurl: "/bookworm"
-url: "http://alertbox.github.io"
+baseurl: "/short-stories"
+url: "http://sadibekov.github.io"
 
 # Collections
 collections:
