@@ -28,7 +28,7 @@ jobs:
       #     JEKYLL_PAT: ${{ secrets.JEKYLL_PAT }}
 
       - name: Set up Ruby 2.6.x
-        uses: actions/setup-ruby@v1
+        uses: ruby/setup-ruby
         with:
           ruby-version: 2.6.x
 
