@@ -1,6 +1,6 @@
 # Site settings
 locale: "en-US"
-baseurl: "/short-stories"
+baseurl: "/stories"
 url: "http://sadibekov.github.io"
 
 # Collections
