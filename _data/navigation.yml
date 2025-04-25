@@ -7,11 +7,14 @@ text:
     coming_soon: "A work in-progress..."
 
 top:
-  - title: Prologue
-    url: /prologue/
+  # - title: Prologue
+  #   url: /prologue/
 
-  - title: Dedication
-    url: /dedication/    
+  # - title: Dedication
+  #   url: /dedication/    
     
+  # - title: Author
+  #   url: /author/ 
+
   - title: Author
-    url: /author/    
+    url: https://www.linkedin.com/in/sadibekov 
